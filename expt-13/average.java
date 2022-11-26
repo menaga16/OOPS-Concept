@@ -17,7 +17,7 @@ public class average {
                 System.out.print(arr[i]+" ");
                 sum+=arr[i];
         }
-        avg=sum/10;
+        avg=sum/20;
         System.out.println("\n\nSum of the elements : "+sum);
         System.out.println("Average of the elements : "+avg);
         for(int i=0;i<arr.length;i++)
