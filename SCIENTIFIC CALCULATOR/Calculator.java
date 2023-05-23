@@ -1,21 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package sci_Calculator;
-
 import java.awt.Color;
 import java.awt.*;
 import javax.swing.*;
-
-/**
- *
- * @author Hossa
- */
 public class Calculator {
-    
-    
+      
      JFrame frame;
     JLabel label = new JLabel();
     JTextField textField = new JTextField(" 0 ");
